@@ -1,4 +1,25 @@
-﻿  BaseRunner.cpp
-E:\GDPARSM\GDPARSM_Main_PASCUAL\BaseRunner.cpp(50,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-E:\GDPARSM\GDPARSM_Main_PASCUAL\BaseRunner.cpp(52,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  GDPARSM_Main_PASCUAL.vcxproj -> E:\GDPARSM\GDPARSM_Main_PASCUAL\x64\Debug\GDPARSM_Main_PASCUAL.exe
+﻿  AGameObject.cpp
+  BaseRunner.cpp
+E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\BaseRunner.cpp(50,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\BaseRunner.cpp(52,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  BGObject.cpp
+  FPSCounter.cpp
+E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\FPSCounter.cpp(24,57): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\FPSCounter.cpp(24,51): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\FPSCounter.cpp(24,45): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  GameObjectManager.cpp
+E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\GameObjectManager.cpp(34,34): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  GDPARSM_Main_PASCUAL.cpp
+  IconObject.cpp
+  IETThread.cpp
+  MathUtils.cpp
+  StringUtils.cpp
+  TextureDisplay.cpp
+E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\TextureDisplay.cpp(32,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\TextureDisplay.cpp(37,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\TextureDisplay.cpp(38,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  TextureManager.cpp
+E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\TextureManager.cpp(87,42): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\TextureManager.cpp(102,37): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  GDPARSM_Main_PASCUAL.vcxproj -> E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\x64\Debug\GDPARSM_Main_PASCUAL.exe
