@@ -1,0 +1,4 @@
+﻿  BaseRunner.cpp
+E:\GDPARSM\GDPARSM_Main_PASCUAL\BaseRunner.cpp(50,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GDPARSM\GDPARSM_Main_PASCUAL\BaseRunner.cpp(52,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GDPARSM_Main_PASCUAL.vcxproj -> E:\GDPARSM\GDPARSM_Main_PASCUAL\x64\Debug\GDPARSM_Main_PASCUAL.exe
