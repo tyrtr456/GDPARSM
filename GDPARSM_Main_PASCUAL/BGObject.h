@@ -9,5 +9,7 @@ class BGObject : public AGameObject
 		void update(sf::Time deltaTime);
 	private:
 		const float SPEED_MULTIPLIER = 350.0f;
+		sf::Time updateTime;
+
 };
 

@@ -103,25 +103,6 @@ void BaseRunner::processEvents()
 void BaseRunner::update(sf::Time elapsedTime) {
 
 	GameObjectManager::getInstance()->update(elapsedTime);
-
-	/*
-	 Old method (no longer necessary nor compatible with threading)
-	if (nObjects < MAX_OBJECTS) {
-			
-			IconObject* iconObject = new IconObject("Icon", this->nObjects);
-			GameObjectManager::getInstance()->addObject(iconObject);
-			//nextSpaceX += iconObject->getSize().x + SPACING;
-
-
-			iconObject->setPosition(nextSpaceX, nextSpaceY);
-
-			nextSpaceX += iconObject->getSize().x + SPACING;
-			if (nextSpaceX + iconObject->getSize().x > WINDOW_WIDTH) {
-				nextSpaceX = 0.0f;
-				nextSpaceY += iconObject->getSize().y + ROW_SPACING;
-			}
-			nObjects++;
-	}*/
 	
 }
 

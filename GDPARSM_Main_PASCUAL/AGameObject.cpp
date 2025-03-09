@@ -64,3 +64,7 @@ sf::FloatRect AGameObject::getLocalBounds()
 {
 	return this->sprite->getLocalBounds();
 }
+
+int AGameObject::getDrawOrder() {
+	return this->drawOrder;
+}

@@ -1,6 +1,5 @@
-﻿  IconObject.cpp
-  TextureManager.cpp
-E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\TextureManager.cpp(98,42): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\TextureManager.cpp(113,37): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+﻿  BGObject.cpp
+  BaseRunner.cpp
+E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\BaseRunner.cpp(23,33): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
   Generating Code...
   GDPARSM_Main_PASCUAL.vcxproj -> E:\GDPARSM\GDPARSM\GDPARSM_Main_PASCUAL\x64\Debug\GDPARSM_Main_PASCUAL.exe

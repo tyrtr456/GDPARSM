@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\FPSCounter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:FPSCounter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BGObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:BGObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\GameObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:GameObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\AGameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:AGameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\AGameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:AGameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BGObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:BGObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\FPSCounter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:FPSCounter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BaseRunner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:BaseRunner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\MathUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:MathUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\ThreadPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:ThreadPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IconObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:IconObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IETThread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:IETThread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IETThread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:IETThread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\PoolWorkerThread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:PoolWorkerThread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\ThreadPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:ThreadPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IExecutionEvent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IWorkerAction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:IWorkerAction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BaseRunner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:BaseRunner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IExecutionEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -47,72 +95,24 @@
       "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:StreamLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\ThreadPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:ThreadPool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IconObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:IconObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IETThread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:IETThread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BGObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:BGObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\PoolWorkerThread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:PoolWorkerThread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\PoolWorkerThread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:PoolWorkerThread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\FPSCounter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:FPSCounter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\FPSCounter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:FPSCounter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\MathUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:MathUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\TextureDisplay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:TextureDisplay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IconObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:IconObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\GameObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:GameObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BGObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:BGObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BaseRunner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:BaseRunner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\ThreadPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:ThreadPool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IETThread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:IETThread.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\AGameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|solutionrelative:AGameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6612CFF-A693-471C-9F9C-E9F24162532D}|GDPARSM_Main_PASCUAL.vcxproj|E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\TextureManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -175,120 +175,206 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StreamLoader.cpp",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\StreamLoader.cpp",
-              "RelativeDocumentMoniker": "StreamLoader.cpp",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\StreamLoader.cpp",
-              "RelativeToolTip": "StreamLoader.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "BGObject.cpp",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BGObject.cpp",
+              "RelativeDocumentMoniker": "BGObject.cpp",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BGObject.cpp",
+              "RelativeToolTip": "BGObject.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-29T13:16:12.149Z"
+              "WhenOpened": "2025-01-12T10:05:06.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FPSCounter.cpp",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\FPSCounter.cpp",
+              "RelativeDocumentMoniker": "FPSCounter.cpp",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\FPSCounter.cpp",
+              "RelativeToolTip": "FPSCounter.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T09:33:08.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IETThread.cpp",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IETThread.cpp",
+              "RelativeDocumentMoniker": "IETThread.cpp",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IETThread.cpp",
+              "RelativeToolTip": "IETThread.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T10:00:20.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IconObject.h",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IconObject.h",
+              "RelativeDocumentMoniker": "IconObject.h",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IconObject.h",
+              "RelativeToolTip": "IconObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-13T11:37:29.434Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "TextureDisplay.cpp",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\TextureDisplay.cpp",
-              "RelativeDocumentMoniker": "TextureDisplay.cpp",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\TextureDisplay.cpp",
-              "RelativeToolTip": "TextureDisplay.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAVAAAA",
+              "Title": "MathUtils.cpp",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\MathUtils.cpp",
+              "RelativeDocumentMoniker": "MathUtils.cpp",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\MathUtils.cpp",
+              "RelativeToolTip": "MathUtils.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-12T09:26:40.076Z"
+              "WhenOpened": "2025-01-13T10:05:26.233Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GDPARSM_Main_PASCUAL.cpp",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\GDPARSM_Main_PASCUAL.cpp",
-              "RelativeDocumentMoniker": "GDPARSM_Main_PASCUAL.cpp",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\GDPARSM_Main_PASCUAL.cpp",
-              "RelativeToolTip": "GDPARSM_Main_PASCUAL.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-12T09:12:24.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IExecutionEvent.h",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IExecutionEvent.h",
-              "RelativeDocumentMoniker": "IExecutionEvent.h",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IExecutionEvent.h",
-              "RelativeToolTip": "IExecutionEvent.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-29T13:11:05.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IExecutionEvent.cpp",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IExecutionEvent.cpp",
-              "RelativeDocumentMoniker": "IExecutionEvent.cpp",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IExecutionEvent.cpp",
-              "RelativeToolTip": "IExecutionEvent.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-29T13:11:05.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "BaseRunner.cpp",
               "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BaseRunner.cpp",
               "RelativeDocumentMoniker": "BaseRunner.cpp",
               "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BaseRunner.cpp",
               "RelativeToolTip": "BaseRunner.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC8AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-12T09:22:49.939Z"
+              "WhenOpened": "2025-01-12T09:22:49.939Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IWorkerAction.cpp",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IWorkerAction.cpp",
-              "RelativeDocumentMoniker": "IWorkerAction.cpp",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IWorkerAction.cpp",
-              "RelativeToolTip": "IWorkerAction.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-13T11:59:34.507Z"
+              "DocumentIndex": 6,
+              "Title": "FPSCounter.h",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\FPSCounter.h",
+              "RelativeDocumentMoniker": "FPSCounter.h",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\FPSCounter.h",
+              "RelativeToolTip": "FPSCounter.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-12T10:01:03.343Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "BGObject.h",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BGObject.h",
+              "RelativeDocumentMoniker": "BGObject.h",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BGObject.h",
+              "RelativeToolTip": "BGObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-13T11:43:47.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AGameObject.cpp",
               "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\AGameObject.cpp",
               "RelativeDocumentMoniker": "AGameObject.cpp",
               "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\AGameObject.cpp",
               "RelativeToolTip": "AGameObject.cpp",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAABIAAAA0AAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-12T10:04:10.986Z"
+              "WhenOpened": "2025-01-12T10:04:10.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "AGameObject.h",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\AGameObject.h",
+              "RelativeDocumentMoniker": "AGameObject.h",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\AGameObject.h",
+              "RelativeToolTip": "AGameObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-13T11:53:28.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GameObjectManager.cpp",
               "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\GameObjectManager.cpp",
               "RelativeDocumentMoniker": "GameObjectManager.cpp",
               "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\GameObjectManager.cpp",
               "RelativeToolTip": "GameObjectManager.cpp",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAADkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-12T10:02:10.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IETThread.h",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IETThread.h",
+              "RelativeDocumentMoniker": "IETThread.h",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IETThread.h",
+              "RelativeToolTip": "IETThread.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-13T11:45:12.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PoolWorkerThread.cpp",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\PoolWorkerThread.cpp",
+              "RelativeDocumentMoniker": "PoolWorkerThread.cpp",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\PoolWorkerThread.cpp",
+              "RelativeToolTip": "PoolWorkerThread.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T12:14:56.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThreadPool.cpp",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\ThreadPool.cpp",
+              "RelativeDocumentMoniker": "ThreadPool.cpp",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\ThreadPool.cpp",
+              "RelativeToolTip": "ThreadPool.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T02:09:59.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ThreadPool.h",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\ThreadPool.h",
+              "RelativeDocumentMoniker": "ThreadPool.h",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\ThreadPool.h",
+              "RelativeToolTip": "ThreadPool.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T02:10:00.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "TextureManager.cpp",
               "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\TextureManager.cpp",
               "RelativeDocumentMoniker": "TextureManager.cpp",
@@ -300,7 +386,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
+              "Title": "IWorkerAction.cpp",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IWorkerAction.cpp",
+              "RelativeDocumentMoniker": "IWorkerAction.cpp",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IWorkerAction.cpp",
+              "RelativeToolTip": "IWorkerAction.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T11:59:34.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IExecutionEvent.cpp",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IExecutionEvent.cpp",
+              "RelativeDocumentMoniker": "IExecutionEvent.cpp",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IExecutionEvent.cpp",
+              "RelativeToolTip": "IExecutionEvent.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-29T13:11:05.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IExecutionEvent.h",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IExecutionEvent.h",
+              "RelativeDocumentMoniker": "IExecutionEvent.h",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IExecutionEvent.h",
+              "RelativeToolTip": "IExecutionEvent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-29T13:11:05.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GDPARSM_Main_PASCUAL.cpp",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\GDPARSM_Main_PASCUAL.cpp",
+              "RelativeDocumentMoniker": "GDPARSM_Main_PASCUAL.cpp",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\GDPARSM_Main_PASCUAL.cpp",
+              "RelativeToolTip": "GDPARSM_Main_PASCUAL.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T09:12:24.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TextureDisplay.cpp",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\TextureDisplay.cpp",
+              "RelativeDocumentMoniker": "TextureDisplay.cpp",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\TextureDisplay.cpp",
+              "RelativeToolTip": "TextureDisplay.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T09:26:40.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StreamLoader.cpp",
+              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\StreamLoader.cpp",
+              "RelativeDocumentMoniker": "StreamLoader.cpp",
+              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\StreamLoader.cpp",
+              "RelativeToolTip": "StreamLoader.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-29T13:16:12.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "StreamLoader.h",
               "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\StreamLoader.h",
               "RelativeDocumentMoniker": "StreamLoader.h",
@@ -312,19 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ThreadPool.cpp",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\ThreadPool.cpp",
-              "RelativeDocumentMoniker": "ThreadPool.cpp",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\ThreadPool.cpp",
-              "RelativeToolTip": "ThreadPool.cpp",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-31T02:09:59.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "IconObject.cpp",
               "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IconObject.cpp",
               "RelativeDocumentMoniker": "IconObject.cpp",
@@ -336,43 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IETThread.cpp",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IETThread.cpp",
-              "RelativeDocumentMoniker": "IETThread.cpp",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IETThread.cpp",
-              "RelativeToolTip": "IETThread.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-12T10:00:20.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BGObject.cpp",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BGObject.cpp",
-              "RelativeDocumentMoniker": "BGObject.cpp",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BGObject.cpp",
-              "RelativeToolTip": "BGObject.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-12T10:05:06.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IconObject.h",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IconObject.h",
-              "RelativeDocumentMoniker": "IconObject.h",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IconObject.h",
-              "RelativeToolTip": "IconObject.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-13T11:37:29.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "TextureDisplay.h",
               "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\TextureDisplay.h",
               "RelativeDocumentMoniker": "TextureDisplay.h",
@@ -384,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "PoolWorkerThread.h",
               "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\PoolWorkerThread.h",
               "RelativeDocumentMoniker": "PoolWorkerThread.h",
@@ -396,55 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FPSCounter.cpp",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\FPSCounter.cpp",
-              "RelativeDocumentMoniker": "FPSCounter.cpp",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\FPSCounter.cpp",
-              "RelativeToolTip": "FPSCounter.cpp",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAwFUAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-12T09:33:08.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "FPSCounter.h",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\FPSCounter.h",
-              "RelativeDocumentMoniker": "FPSCounter.h",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\FPSCounter.h",
-              "RelativeToolTip": "FPSCounter.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-12T10:01:03.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MathUtils.cpp",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\MathUtils.cpp",
-              "RelativeDocumentMoniker": "MathUtils.cpp",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\MathUtils.cpp",
-              "RelativeToolTip": "MathUtils.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T10:05:26.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PoolWorkerThread.cpp",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\PoolWorkerThread.cpp",
-              "RelativeDocumentMoniker": "PoolWorkerThread.cpp",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\PoolWorkerThread.cpp",
-              "RelativeToolTip": "PoolWorkerThread.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-13T12:14:56.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "GameObjectManager.h",
               "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\GameObjectManager.h",
               "RelativeDocumentMoniker": "GameObjectManager.h",
@@ -456,19 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BGObject.h",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BGObject.h",
-              "RelativeDocumentMoniker": "BGObject.h",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BGObject.h",
-              "RelativeToolTip": "BGObject.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-13T11:43:47.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "BaseRunner.h",
               "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\BaseRunner.h",
               "RelativeDocumentMoniker": "BaseRunner.h",
@@ -477,42 +527,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-12T09:34:08.919Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ThreadPool.h",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\ThreadPool.h",
-              "RelativeDocumentMoniker": "ThreadPool.h",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\ThreadPool.h",
-              "RelativeToolTip": "ThreadPool.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-31T02:10:00.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IETThread.h",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IETThread.h",
-              "RelativeDocumentMoniker": "IETThread.h",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\IETThread.h",
-              "RelativeToolTip": "IETThread.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-13T11:45:12.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "AGameObject.h",
-              "DocumentMoniker": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\AGameObject.h",
-              "RelativeDocumentMoniker": "AGameObject.h",
-              "ToolTip": "E:\\GDPARSM\\GDPARSM\\GDPARSM_Main_PASCUAL\\AGameObject.h",
-              "RelativeToolTip": "AGameObject.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-13T11:53:28.797Z"
             },
             {
               "$type": "Document",

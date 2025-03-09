@@ -20,6 +20,7 @@ class AGameObject: sf::NonCopyable
 		virtual sf::Vector2f getPosition();
 		virtual sf::Vector2f getScale();
 		virtual sf::Sprite* getSprite();
+		virtual int getDrawOrder();
 
 	protected:
 		String name;
@@ -28,5 +29,6 @@ class AGameObject: sf::NonCopyable
 
 		float posX = 0.0f; float posY = 0.0f;
 		float scaleX = 1.0f; float scaleY = 1.0f;
+		int drawOrder = 0;
 };
 
