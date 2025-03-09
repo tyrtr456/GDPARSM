@@ -79,14 +79,15 @@ void GameObjectManager::deleteObject(AGameObject* gameObject)
 	if (index != -1) {
 		this->gameObjectList.erase(this->gameObjectList.begin() + index);
 	}
-	
+
 	delete gameObject;
 }
 
 void GameObjectManager::deleteObjectByName(AGameObject::String name) {
 	AGameObject* object = this->findObjectByName(name);
-	
+
 	if (object != NULL) {
 		this->deleteObject(object);
 	}
 }
+

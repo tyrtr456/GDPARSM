@@ -16,8 +16,6 @@ void IconObject::initialize()
 	this->sprite->setTexture(*texture);
 	this->textureSize = this->sprite->getTexture()->getSize();
 
-
-
 }
 
 void IconObject::processInput(sf::Event event)
@@ -28,6 +26,7 @@ void IconObject::processInput(sf::Event event)
 
 void IconObject::update(sf::Time deltaTime)
 {
+	this->setPosition(this->posX + (10.0f * deltaTime.asSeconds()), this->posY);
 }
 
 sf::Vector2u IconObject::getSize()

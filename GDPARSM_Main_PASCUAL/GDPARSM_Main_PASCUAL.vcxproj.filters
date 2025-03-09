@@ -20,6 +20,9 @@
     <Filter Include="Textures">
       <UniqueIdentifier>{4e2204fa-f4d9-4cd6-973d-aff46313d7f8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Immediate Mode Application">
+      <UniqueIdentifier>{239025f4-cfc3-4b4f-8a50-d54a14018733}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GDPARSM_Main_PASCUAL.cpp">
@@ -40,9 +43,6 @@
     <ClCompile Include="GameObjectManager.cpp">
       <Filter>GameObject</Filter>
     </ClCompile>
-    <ClCompile Include="BaseRunner.cpp">
-      <Filter>UI</Filter>
-    </ClCompile>
     <ClCompile Include="FPSCounter.cpp">
       <Filter>UI</Filter>
     </ClCompile>
@@ -57,6 +57,24 @@
     </ClCompile>
     <ClCompile Include="TextureManager.cpp">
       <Filter>Textures</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseRunner.cpp">
+      <Filter>Immediate Mode Application</Filter>
+    </ClCompile>
+    <ClCompile Include="IExecutionEvent.cpp">
+      <Filter>Immediate Mode Application</Filter>
+    </ClCompile>
+    <ClCompile Include="StreamLoader.cpp">
+      <Filter>Textures</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadPool.cpp">
+      <Filter>Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="IWorkerAction.cpp">
+      <Filter>Immediate Mode Application</Filter>
+    </ClCompile>
+    <ClCompile Include="PoolWorkerThread.cpp">
+      <Filter>Thread</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -75,9 +93,6 @@
     <ClInclude Include="GameObjectManager.h">
       <Filter>GameObject</Filter>
     </ClInclude>
-    <ClInclude Include="BaseRunner.h">
-      <Filter>UI</Filter>
-    </ClInclude>
     <ClInclude Include="FPSCounter.h">
       <Filter>UI</Filter>
     </ClInclude>
@@ -92,6 +107,24 @@
     </ClInclude>
     <ClInclude Include="TextureManager.h">
       <Filter>Textures</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseRunner.h">
+      <Filter>Immediate Mode Application</Filter>
+    </ClInclude>
+    <ClInclude Include="IExecutionEvent.h">
+      <Filter>Immediate Mode Application</Filter>
+    </ClInclude>
+    <ClInclude Include="StreamLoader.h">
+      <Filter>Textures</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreadPool.h">
+      <Filter>Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="IWorkerAction.h">
+      <Filter>Immediate Mode Application</Filter>
+    </ClInclude>
+    <ClInclude Include="PoolWorkerThread.h">
+      <Filter>Thread</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
